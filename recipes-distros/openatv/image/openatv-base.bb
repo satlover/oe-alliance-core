@@ -15,6 +15,8 @@ RDEPENDS_${PN} = "\
     openatv-enigma2 \
     openatv-bootlogo \
     openatv-spinner \
+    openatv-feed-config \
+    openatv-feed2-config \
     openssh-sftp-server \
     ntfs-3g \
     hddtemp \
